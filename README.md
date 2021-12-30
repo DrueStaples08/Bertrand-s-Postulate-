@@ -2,7 +2,12 @@
  
 ### When n > 3, there will always be at least one prime number between n and 2n-2
 
-C:\Users\drues\projects\machine_learning\bertrands_postulate\bertrand_primes.png
+This repo has two elements:
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+1.) A class to find the primes for an positive integer.
+
+
+2.) Regression to predict the number of primers for any postive integer
+
+![This is an image](https://github.com/DrueStaples08/Bertrand-s-Postulate-/blob/main/bertrand_primes.png)
 
