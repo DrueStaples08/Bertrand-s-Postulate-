@@ -6,8 +6,9 @@ This repo has two elements:
 
 1.) A class to find the primes for an positive integer.
 
+![bertrand class]
 
 2.) Regression to predict the number of primers for any postive integer
 
-![This is an image](https://github.com/DrueStaples08/Bertrand-s-Postulate-/blob/main/bertrand_primes.png)
+![bertrand reggression](https://github.com/DrueStaples08/Bertrand-s-Postulate-/blob/main/bertrand_primes.png)
 
