@@ -1,12 +1,28 @@
 # Bertrand's Postulate
  
-### When n > 3, there will always be a prime number between n and 2n-2
-
-### Try importing the library to list the sequence of primes of any number greater than 4.
+### When n > 3, there will always be a prime number between n and 2n-2 as long as n is >= 4
 
 
-from sequence.postulate import Bertrand
 
-Bertrand.run(30)
+from BP import Bertrand
 
-[31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57]
+
+b = Bertrand()
+
+b_100 = b.bertrand_single(100, show_range=True)
+>> 100 198
+
+b.bertrand_range(100)
+>>>
+index num	length
+0	4	1
+1	5	1
+2	6	1
+3	7	1
+4	8	2
+...	...	...
+91	95	18
+92	96	18
+93	97	18
+94	98	19
+95	99	19
